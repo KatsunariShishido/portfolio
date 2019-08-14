@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TOP
+title: [TOP]
 ---
 
 [Japanese]
