@@ -3,7 +3,7 @@ layout: page
 title: "[TOP]"
 ---
 
-[Japanese](index_jp.md)
+[Japanese page](index_jp.md)
 
 # Katsunari Shishido
 
