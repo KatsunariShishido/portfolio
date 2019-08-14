@@ -1,7 +1,9 @@
 ---
-layout: default
-title: トップページ
+layout: page
+title: TOP
 ---
+
+[Japanese]
 
 # Katsunari Shishido
 
