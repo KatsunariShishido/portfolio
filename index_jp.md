@@ -18,7 +18,7 @@ title: トップページ
 ### 2019
 ---
 
-**Secure Online-Efficient Interval Test based on Empty-Set Check (Best Paper Award)**
+**Secure Online-Efficient Interval Test based on Empty-Set Check**
 <br>
 **Katsunari Shishido**, Atsuko Miyaji
 <br>
@@ -77,3 +77,7 @@ title: トップページ
 <br>
 *The Institute of Electronics, Information and Communication Engineers (IEICE) Japan Tech. Rep. Information Security (ISEC), 2017*
 
+# 受賞歴
+Best Paper Award, *AsiaJCIS 2019*, 神戸, 日本, 2019
+
+研究助成, 一般財団法人 数理科学振興会, 2019
