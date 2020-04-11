@@ -13,6 +13,20 @@ title: トップページ
 
 # 論文リスト
 
+
+## 論文誌
+---
+### 2020
+---
+*To appear*
+<br>
+**Online-Efficient Interval Test via Secure Empty-Set Check**
+<br>
+**Katsunari Shishido**, Atsuko Miyaji
+<br>
+*IEICE Trans. Information and Systems, Information and Communication System Security*
+to appear.
+
 ## 国際会議
 ---
 ### 2019
