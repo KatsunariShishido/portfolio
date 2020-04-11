@@ -7,9 +7,9 @@ title: トップページ
 
 # 宍戸 克成
 
-- 大阪大学工学研究科 博士後期課程 2年
+- 株式会社富士通研究所
 - 指導教官: [宮地充子教授](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/member/miyaji-jp.html)
-- 興味領域: 暗号プロトコル
+- 興味領域: 暗号プロトコル，AIセキュリティ
 
 # 論文リスト
 
