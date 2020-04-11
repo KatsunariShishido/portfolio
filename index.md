@@ -7,10 +7,22 @@ title: "[TOP]"
 
 # PERSONAL STATEMENT
 
-I am **Katsunari shishido** who is working in Fujitsu Laboratory.
-I was adviced by [Atsuko Miyaji](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/member/miyaji.html). I am interested in cryptographic protocol. Especially, I am working on secure protocols such as the private set intersection protocol and the secure two-party comparison protocol.
+I am **Katsunari Shishido** who is working in Fujitsu Laboratory.
+I was adviced by [Atsuko Miyaji](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/member/miyaji.html). I am interested in cryptographic protocol and AI security.
 
 # PUBLICATIONS
+
+---
+### 2020
+---
+*To appear*
+<br>
+**Online-Efficient Interval Test via Secure Empty-Set Check**
+<br>
+**Katsunari Shishido**, Atsuko Miyaji
+<br>
+*IEICE Trans. Information and Systems, Information and Communication System Security*
+
 
 ---
 ### 2019
