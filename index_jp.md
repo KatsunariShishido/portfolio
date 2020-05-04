@@ -24,7 +24,7 @@ title: トップページ
 <br>
 **Katsunari Shishido**, Atsuko Miyaji
 <br>
-*IEICE Trans. on Information and Systems, Information and Communication System Security*
+*IEICE Trans. on Information and Systems, Information and Communication System Security Vol.E103-D,No.07,pp.XX-XX,Jul. 2020.*
 
 
 ## 国際会議
