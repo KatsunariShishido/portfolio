@@ -15,7 +15,6 @@ I was adviced by [Atsuko Miyaji](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-la
 ---
 ### 2020
 ---
-*To appear*
 <br>
 **Online-Efficient Interval Test via Secure Empty-Set Check**
 <br>
