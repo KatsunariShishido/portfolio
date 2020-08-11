@@ -21,7 +21,7 @@ I was adviced by [Atsuko Miyaji](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-la
 <br>
 **Katsunari Shishido**, Atsuko Miyaji
 <br>
-*IEICE Trans. on Information and Systems, Information and Communication System Security Vol.E103-D,No.07,pp.XX-XX,Jul. 2020.*
+*IEICE Transactions on Information and Systems, 2020, Volume E103.D, Issue 7, Pages 1598-1607, Released July 01, 2020
 
 
 ---
