@@ -7,7 +7,7 @@ title: "[TOP]"
 
 # PERSONAL STATEMENT
 
-I am **Katsunari Shishido** who is working in Fujitsu Laboratory.
+I am **Katsunari Shishido** who is working in FUJITSU LABORATORIES LTD.
 I was adviced by [Atsuko Miyaji](https://cy2sec.comm.eng.osaka-u.ac.jp/miyaji-lab/member/miyaji.html). I am interested in cryptographic protocol and AI security.
 
 # PUBLICATIONS
